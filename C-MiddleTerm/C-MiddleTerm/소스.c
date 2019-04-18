@@ -23,6 +23,4 @@ void main(void) {
 		//Enter
 		printf("\n");
 	}
-
-
 }

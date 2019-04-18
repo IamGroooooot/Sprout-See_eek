@@ -18,6 +18,5 @@ void main(void) {
 		if (!hasDiv) {
 			printf("%d ",i);
 		}
-
 	}
 }
